@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d809702b-3299-4829-8894-0335d9edcfce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chromerunner/chrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dataobject/homepagedata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homepage1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageobject/avtorizacia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageobject/homepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stepobject/homepagestep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/proekti/homepagetest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zoom/addbasket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zoom/dzebna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zoom/parolreset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zoom/registracia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HBVKzQdXUGhZau5NcD7X1Gq9Xl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/n.goiashvili/Desktop/Lecture4/boloproeqti/src/main/java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.addbasket.basket">
+    <configuration name="addbasket.basket" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="boloproeqti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zoom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zoom" />
+      <option name="MAIN_CLASS_NAME" value="zoom.addbasket" />
+      <option name="METHOD_NAME" value="basket" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="boloproeqti.chemiproeqti" type="TestNG" nameIsGenerated="true">
+      <module name="boloproeqti" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="boloproeqti" />
+      <option name="METHOD_NAME" value="chemiproeqti" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dzebna" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="boloproeqti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zoom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zoom" />
+      <option name="MAIN_CLASS_NAME" value="zoom.dzebna" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dzebna.test123" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="boloproeqti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zoom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zoom" />
+      <option name="MAIN_CLASS_NAME" value="zoom.dzebna" />
+      <option name="METHOD_NAME" value="test123" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parolreset.parolreset2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="boloproeqti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zoom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zoom" />
+      <option name="MAIN_CLASS_NAME" value="zoom.parolreset" />
+      <option name="METHOD_NAME" value="parolreset2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="registracia.registraction2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="boloproeqti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zoom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zoom" />
+      <option name="MAIN_CLASS_NAME" value="zoom.registracia" />
+      <option name="METHOD_NAME" value="registraction2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.addbasket.basket" />
+        <item itemvalue="TestNG.parolreset.parolreset2" />
+        <item itemvalue="TestNG.registracia.registraction2" />
+        <item itemvalue="TestNG.dzebna.test123" />
+        <item itemvalue="TestNG.dzebna" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d809702b-3299-4829-8894-0335d9edcfce" name="Changes" comment="" />
+      <created>1667758405843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667758405843</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/zoom/dzebna.java</url>
+          <line>13</line>
+          <properties class="zoom.dzebna" method="test3">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/zoom/addbasket.java</url>
+          <line>15</line>
+          <properties class="zoom.addbasket" method="basket">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
