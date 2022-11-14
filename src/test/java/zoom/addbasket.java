@@ -13,7 +13,7 @@ import static com.codeborne.selenide.Selenide.*;
 
 public class addbasket {
     @Test
-    public void basket(){
+    public void basketi(){
         open("https://zoommer.ge/");
         $("#small-searchterms").setValue("Samsung Galaxy S21 FE 5G 8/128GB White").pressEnter();
         $(byClassName("product_basket_compare")).doubleClick();
